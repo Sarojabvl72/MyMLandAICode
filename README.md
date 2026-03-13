@@ -1,2 +1,2 @@
 # MyMLandAICode
-This is repository as part of UCB ML and AI certification program
+This is a repository as part of UCB ML and AI certification program

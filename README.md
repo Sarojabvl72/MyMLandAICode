@@ -1,23 +1,25 @@
-# Coupon Acceptance Rate Analysis
+# MyMLandAICode
+Repository a part of UCB ML and AI certification program.
+Interesting to re-code in a new language, in a new era.
+
+## Title: Coupon Acceptance Rate Analysis
 
 ## Summary
-This document provides an analysis of coupon acceptance rates across different categories. The overall acceptance rates are significant and indicate that certain types of coupons perform better than others statistically. Understanding these metrics allows businesses to develop targeted strategies to increase coupon usage and overall customer engagement.
+Overall coupon acceptance rate was **56.84%** (n = 12,684). Acceptance varies substantially by coupon type: **Carry out & Take away** and **Restaurant (<$20)** show the highest acceptance (73.55% and 70.92% respectively), while **Bar** and **Restaurant ($20–$50)** show the lowest acceptance (41.00% and 44.10% respectively). The association between **coupon type** and **time of day** is highly significant (p ≈ 1.50×10⁻²²⁴).
 
-## Key Numbers
+---
 
-| Coupon Type                     | Acceptance | n   | 95% Wilson CI     |
-|----------------------------------|------------|-----|--------------------|
-| Carry out & Take away            | xx%        | xx  | (x.xx, x.xx)      |
-| Restaurant (<$20)                | xx%        | xx  | (x.xx, x.xx)      |
-| Coffee House                     | xx%        | xx  | (x.xx, x.xx)      |
-| Restaurant ($20–$50)             | xx%        | xx  | (x.xx, x.xx)      |
-| Bar                              | xx%        | xx  | (x.xx, x.xx)      |
-| Overall                          | xx%        | xx  | (x.xx, x.xx)      |
+## Key numbers
 
-## Top Performing Coupons
-1. [Coupon details]
-2. [Coupon details]
+| Coupon type | Acceptance | n | 95% Wilson CI |
+|---|---|---|---|
+| Carry out & Take away | 73.55% | 2,393 | 71.74% – 75.28% |
+| Restaurant (<$20) | 70.92% | 2,786 | 68.94% – 72.72% |
+| Coffee House | 49.92% | 3,996 | 48.38% – 51.47% |
+| Restaurant ($20–$50) | 44.10% | 1,492 | 41.61% – 46.63% |
+| Bar | 41.00% | 2,017 | 38.87% – 43.16% |
+| Overall | 56.84% | 12,684 | — |
 
-## Lowest Performing Coupons
-1. [Coupon details]
-2. [Coupon details]
+**Top performing coupon:** Carry out & Take away (73.55%, n=2,393).
+
+**Lowest performing coupon:** Bar (41.00%, n=2,017).
